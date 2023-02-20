@@ -1,3 +1,5 @@
-*.pdf
+*.pptx
+*.doc[x]
+*.zip
 *.mp3
 try.py
